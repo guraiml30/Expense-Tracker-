@@ -42,11 +42,10 @@ python runall.py --no-serve    # pipeline only
 | POST `/api/expenses` | Add expense `{"category","amount","date","payment_method"}` |
 
 ## Results
-Add your screenshots here (from `images/`):
+![image alt](https://github.com/guraiml30/Expense-Tracker-/blob/adacd84bcacf9b13e6a6fbf180a5a89a2507072a/Git2.png)
+![image alt](https://github.com/guraiml30/Expense-Tracker-/blob/adacd84bcacf9b13e6a6fbf180a5a89a2507072a/Git1.png)
 
-![Category](images/01_category_bar.png)
-![Trend](images/03_monthly_trend.png)
-![Budget](images/06_budget_vs_actual.png)
+
 
 ## Project Structure
 ```
@@ -57,5 +56,4 @@ main.py  runall.py  dashboard.py  requirements.txt
 ## Future Improvements
 Mobile app, real-time tracking, ML spending forecast, budget alerts, savings goal tracking.
 
-## Author
-Your Name - GitHub | LinkedIn
+
